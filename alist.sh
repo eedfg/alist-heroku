@@ -10,7 +10,7 @@ cat >/alist/config/config.json <<EOF
     "user": "$BSQLUSER"
     "password": "$CSQLPASSWORD"
     "host": "$DSQLHOST"
-    "port": $ESQLPORT,
+    "port": $ESQLPORT
     "name": "$FSQLNAME"
     "table_prefix": "x_"
     "db_file": "/alist/config/data.db"
