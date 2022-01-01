@@ -2,8 +2,6 @@ mkdir -p /alist/config/
 
 # 写入配置文件
 cat >/alist/config/conf.yml <<EOF
-info:
-  title: Alist - heroku
   logo:
   footer_text: Cooluc's Blog
   footer_url: https://www.cooluc.com/
